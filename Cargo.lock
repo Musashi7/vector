@@ -3601,9 +3601,9 @@ dependencies = [
 
 [[package]]
 name = "metrics"
-version = "0.13.1"
+version = "0.14.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b6d31b8f6fe04ed4ac33f735f97576b37750df3baf684107d545a8d30efcf584"
+checksum = "ee607b70506ed8dbabe467f24ce0a4d0568980993f94c0a7652d2d50e8b51fd1"
 dependencies = [
  "metrics-macros",
  "proc-macro-hack",
@@ -3611,9 +3611,9 @@ dependencies = [
 
 [[package]]
 name = "metrics-macros"
-version = "0.1.0"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "487119a99660e9b2879132f1b84e067b6d68c85cc228e31789567c14bcaa6a1a"
+checksum = "11ac60cd4d3a869fd39d57baf0ed7f79fb677580d8d6655c4330d4f1126bc27b"
 dependencies = [
  "lazy_static",
  "proc-macro-hack",
@@ -3625,9 +3625,9 @@ dependencies = [
 
 [[package]]
 name = "metrics-tracing-context"
-version = "0.2.0"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6c1de86ffb2ca70e7ff7c9363299b6f2d76ccfbc6cdd62e73f265d1d3025ae35"
+checksum = "dca72af6651bd11c3496d470b566b0a8d8b671c11e52c86a5d1b157b112d4730"
 dependencies = [
  "itoa",
  "metrics",
@@ -3639,9 +3639,9 @@ dependencies = [
 
 [[package]]
 name = "metrics-util"
-version = "0.5.0"
+version = "0.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "95aca29dc6f2378e20d3f19a2ac599fa0aae5a4ffbc7a64a5c8a5f03f6228ba7"
+checksum = "1679edddfd4f95e183e10f9886dcab2b0f07afd0f5e9f8c9412ad6f6bbefe58a"
 dependencies = [
  "aho-corasick",
  "atomic-shim",
